@@ -1,4 +1,4 @@
-# SCRUM DEVELOPMENT - VENDING MACHINE
+# Vending Machine System
 
 To run the application:
 
